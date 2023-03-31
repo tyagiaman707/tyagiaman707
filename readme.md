@@ -1,10 +1,8 @@
-# Hey there :wave:
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/tyagiaman707/count.svg" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Aman Tyagi</h1>
