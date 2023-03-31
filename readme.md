@@ -1,9 +1,11 @@
-<img src="file:///C:/Users/DELL/Desktop/giiii.webp" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
+<p align="center">
+  <h1 align="center"> Welcome to my profile✅
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tyagiaman707/count.svg" />
 </p>
+
 
 <h1 align="center">Hey 👋, I'm Aman Tyagi</h1>
 <h3 align="center">As an experienced backend developer proficient in Spring Boot, I possess knowledge in Java programming and Data Structures and Algorithms (DSA). Currently, I am an apprentice at Geekster platform, where I am consistently enhancing my expertise in the technology field.My passion for programming has enabled me to gain a comprehensive understanding of various programming languages. I am highly motivated to expand my knowledge and skills further. I am committed, diligent, and constantly endeavoring to enhance my skills to achieve optimal outcomes.</h3>
