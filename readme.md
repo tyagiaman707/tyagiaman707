@@ -2,8 +2,6 @@
 
 <p align="center">
   <h1 align="center"> Welcome to my profile✅
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tyagiaman707/count.svg" />
 </p>
 
 
