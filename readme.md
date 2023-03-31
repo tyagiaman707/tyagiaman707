@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyagiaman707&label=Profile%20views&color=0e75b6&style=flat" alt="tyagiaman707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyagiaman707" alt="tyagiaman707" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyagiaman707](https://github.com/tyagiaman707)
